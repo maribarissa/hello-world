@@ -1,5 +1,3 @@
-# hello-world
+# Release Notes
 
-Alô alô, testando
-
-Tentando colocar aqui uns releases legais que vão aquecer a alma.
+Neste documento estarão os releases de todos os setores: E-Config, AC-1, Mobile, Firmwares.
