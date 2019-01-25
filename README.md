@@ -29,3 +29,7 @@ Além da Alexa teremos também essa funcionalidade utilizando o assistente virtu
 ## CLASSIC
 
 Melhora da integração com Embrace e Savant.
+
+## KP6M
+
+Nova versao do EB-KP6M com melhorias no report de luminosidade. Agora envia somente quando há uma mudança brusca na luminosidade ou a cada 10 segundos.
